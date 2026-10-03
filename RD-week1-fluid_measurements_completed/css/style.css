@@ -30,3 +30,10 @@ h1, h2{
 text-align: center;
 text-transform: uppercase;
 }
+@media screen and (min-width: 772px) {
+    
+}
+@media screen and (min-width: 992px) {
+    
+}
+
